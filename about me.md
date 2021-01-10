@@ -1,6 +1,7 @@
 ---
 title: "关于我"
 layout: about
+image: assets/images/about me11.jpg
 ---
 # 母丹洋
 ## 网络与新媒体专业学生
