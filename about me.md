@@ -1,7 +1,7 @@
 ---
 title: "关于我"
 layout: about
-image: assets/images/about me12.png
+image: assets/images/about me111.png
 ---
 # 母丹洋 
 > 中山大学南方学院
