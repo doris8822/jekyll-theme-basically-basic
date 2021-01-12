@@ -9,7 +9,7 @@ categories:
 ##### 一个红色的SVG毛线球，如何自己改变颜色且能滚动、位移、变大？
 <!--more-->
 
-### 以下是洋洋在[Font Awesome ](https://fontawesome.com/)上找到的一个毛线球，并且为其增加了animate属性，使其实现了滚动、位移、放大的效果。
+### 以下是洋洋在[ iconfont ](https://www.iconfont.cn/)上找到的一个毛线球，并且为其增加了animate属性，使其实现了滚动、位移、放大的效果。
 
 
 <div>
