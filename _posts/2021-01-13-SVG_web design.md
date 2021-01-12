@@ -22,4 +22,4 @@ categories:
 #### 下面是洋洋在[**哔哩哔哩**](https://www.bilibili.com/)上找到一个视频，里面安利了十个关于设计的实用工具网站！希望能助力小白成为大佬~
 
 
-<iframe src="//player.bilibili.com/player.html?aid=75860388&bvid=BV1BJ411U7AH&cid=129773467&page=1" width="1000" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=75860388&bvid=BV1BJ411U7AH&cid=129773467&page=1" width="720" height="576" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
