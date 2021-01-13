@@ -2,7 +2,7 @@
 title: 涨知识了！原来这就是传说中的网站设计！
 excerpt_separator: "<!--more-->"
 categories:
-     -网站设计
+     - 网站设计
 
 ---
 
