@@ -1,5 +1,5 @@
 ---
-title: 真不错系列（2）！学习平面设计的超级助攻！
+title: 真不错系列（二）！学习平面设计的超级助攻！
 excerpt_separator: "<!--more-->"
 categories:
      - 平面设计
