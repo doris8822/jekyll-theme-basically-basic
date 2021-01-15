@@ -2,7 +2,7 @@
    Sidebar
    ========================================================================== */
 
-.sidebar {
+  .sidebar {
   position: fixed;
   top: 0;
   left: 0;
@@ -37,13 +37,13 @@
       -ms-transform: translateX(0);
       transform: translateX(0);
       opacity: 1;
-      text-shadow: 5px 5px 15px #8080c0;
-    }
+     }
 
     /* line hover effect */
     a {
       position: relative;
       color: $base-color;
+      text-shadow: 5px 5px 15px #8080c0;
 
       &::before {
         display: block;
