@@ -19,6 +19,8 @@ categories:
 
 ![PC端页面](/XiaoYang/assets/images/PC端页面.png)
 
+*移动端页面展示：*
+
 ![移动端页面](/XiaoYang/assets/images/移动端页面.jpg)
 
 ***
@@ -28,12 +30,15 @@ categories:
 
 *其范例如下：
 
+*PC端页面展示：*
 ![支付宝PC端](/XiaoYang/assets/images/支付宝PC端.png)
 
+*移动端页面展示：*
 ![支付宝移动端端](/XiaoYang/assets/images/支付宝移动端.jpg)
 
 
 ***
+
 ### 三、PC端与移动端，哪个是未来的趋势？
 
 * 现在，手机的用户已经超过了电脑用户。生活中处处可见手机的身影，而且基本上，每个人手里都握着一台手机，这无疑预示着**未来是移动互联网的世界**。
